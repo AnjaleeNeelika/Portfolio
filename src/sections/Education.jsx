@@ -76,7 +76,7 @@ const Education = () => {
                         </td>
                     </tr>
 
-                    <tr>
+                    {/* <tr>
                         <td className='pt-20'>
                             <p className='text-right text-2xl font-semibold'>St. Bernadette's College, Polgahawela</p>
                             <p className='text-right text-xl italic mt-3'>Primary Education</p>
@@ -87,7 +87,7 @@ const Education = () => {
                         <td>
                             <p className='text-xl font-semibold'>2004 - 2010</p>
                         </td>
-                    </tr>
+                    </tr> */}
                 </tbody>
             </table>
         </div>
